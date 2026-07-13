@@ -23,7 +23,7 @@ The page is fully responsive and works seamlessly on desktop, tablet, and mobile
 | Feature | Description |
 |---------|-------------|
 | 💰 **Price Calculator** | Select "Assignment" or "Project", pick a deadline date, and get an instant price quote |
-| 📩 **Contact Form** | Sends messages directly to abdulazeem7982@gmail.com via Gmail's mailto functionality |
+| 📩 **Contact Form** | Sends messages directly to abdulazeemhashmi29@gmail.com via Gmail's mailto functionality |
 | 📱 **WhatsApp Integration** | One-click button to start a chat on WhatsApp |
 | 📱 **Responsive Design** | Optimized for all screen sizes using CSS Flexbox, Grid, and Media Queries |
 | 🧭 **Semantic HTML** | Clean, accessible markup using header, nav, main, section, and footer tags |
@@ -50,11 +50,14 @@ This project is deployed on **Vercel** for free and reliable hosting.
 ---
 
 ## 📂 Project Structure
+
+```
 assignment-2-static-webpage/
-├── index.html # Main HTML file
-├── style.css # All styles and responsive design
-├── script.js # Price calculator + contact form logic
-└── README.md # Project documentation
+├── index.html   # Main HTML file
+├── style.css    # All styles and responsive design
+├── script.js    # Price calculator + contact form logic
+└── README.md    # Project documentation
+```
 
 ---
 
@@ -62,9 +65,27 @@ assignment-2-static-webpage/
 
 This project follows a clean Git workflow as required by the assignment:
 
-- **Feature Branch:** feature/website was used for development
+- **Feature Branch:** `feature/website` was used for development
 - **Meaningful Commits:** Each commit has a clear, descriptive message
 - **Merge to Main:** The feature branch was successfully merged into main
+
+---
+
+## 💻 Getting Started
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/AbdulAzeemHashmi/assignment-2-static-webpage.git
+
+# Navigate into the project folder
+cd assignment-2-static-webpage
+
+# Open index.html in your browser
+```
+
+No build tools or dependencies are required — it's a pure HTML, CSS, and JavaScript project.
 
 ---
 
