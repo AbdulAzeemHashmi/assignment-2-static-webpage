@@ -51,7 +51,7 @@ document.getElementById('calcBtn').addEventListener('click', function() {
     } else { // Project
         typeLabel = 'Project';
         if (diffDays > 7) {
-            price = 100;
+            price = 1000;
         } else if (diffDays >= 1) {
             price = 2000;
         } else {
