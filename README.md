@@ -10,9 +10,9 @@
 
 This is a single page static website built as part of the **Codoc IT Internship Development Programme, Assignment 2**. It serves as a professional service page where students can:
 
-- 💰 Check pricing for assignments and projects based on deadline urgency
-- 📩 Send direct messages via Gmail using a contact form
-- 📱 Connect instantly via WhatsApp for quick inquiries
+- Check pricing for assignments and projects based on deadline urgency
+- Send direct messages via Gmail using a contact form
+- Connect instantly via WhatsApp for quick inquiries
 
 The page is fully responsive and works seamlessly on desktop, tablet, and mobile devices.
 
@@ -22,10 +22,10 @@ The page is fully responsive and works seamlessly on desktop, tablet, and mobile
 
 | Feature | Description |
 |---------|-------------|
-| 💰 **Price Calculator** | Select "Assignment" or "Project", pick a deadline date, and get an instant price quote in PKR |
+| 💰 **Price Calculator** | Select "Assignment" or "Project", pick a deadline date, and get an instant price quote |
 | 📩 **Contact Form** | Sends messages directly to abdulazeem7982@gmail.com via Gmail's mailto functionality |
-| 📱 **WhatsApp Integration** | One click button to start a chat on WhatsApp at +92 322 8535002 |
-| 📐 **Responsive Design** | Optimized for all screen sizes using CSS Flexbox, Grid, and Media Queries |
+| 📱 **WhatsApp Integration** | One-click button to start a chat on WhatsApp |
+| 📱 **Responsive Design** | Optimized for all screen sizes using CSS Flexbox, Grid, and Media Queries |
 | 🧭 **Semantic HTML** | Clean, accessible markup using header, nav, main, section, and footer tags |
 | 🎨 **Modern UI** | Professional color scheme with hover effects and smooth transitions |
 
@@ -50,11 +50,11 @@ If the selected deadline date is in the past, the calculator shows a warning and
 
 ## 🛠️ Built With
 
-- 🧱 **HTML5**, semantic markup structure
-- 🎨 **CSS3**, custom styling with Flexbox, Grid, and responsive media queries
-- ⚙️ **JavaScript (Vanilla)**, price calculation logic and form handling
-- 🌿 **Git and GitHub**, version control with feature branch workflow
-- ▲ **Vercel**, deployment and hosting
+- **HTML5** - Semantic markup structure
+- **CSS3** - Custom styling with Flexbox, Grid, and responsive media queries
+- **JavaScript (Vanilla)** - Price calculation logic and form handling
+- **Git and GitHub** - Version control with feature branch workflow
+- **Vercel** - Deployment and hosting
 
 ---
 
@@ -70,11 +70,10 @@ This project is deployed on **Vercel** for free and reliable hosting.
 
 ```
 assignment-2-static-webpage/
-├── index.html   📄 Main HTML file
-├── style.css    🎨 All styles and responsive design
-├── script.js    ⚙️ Price calculator and contact form logic
-└── README.md    📘 Project documentation
-```
+├── index.html # Main HTML file
+├── style.css # All styles and responsive design
+├── script.js # Price calculator + contact form logic
+└── README.md # Project documentation
 
 ---
 
@@ -82,33 +81,15 @@ assignment-2-static-webpage/
 
 This project follows a clean Git workflow as required by the assignment:
 
-- 🌿 **Feature Branch:** `feature/website` was used for development
-- 📝 **Meaningful Commits:** Each commit has a clear, descriptive message
-- 🔀 **Merge to Main:** The feature branch was successfully merged into main
-
----
-
-## 💻 Getting Started
-
-To run this project locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/AbdulAzeemHashmi/assignment-2-static-webpage.git
-
-# Navigate into the project folder
-cd assignment-2-static-webpage
-
-# Open index.html in your browser
-```
-
-No build tools or dependencies are required, it's a pure HTML, CSS, and JavaScript project. 🎉
+- **Feature Branch:** feature/website was used for development
+- **Meaningful Commits:** Each commit has a clear, descriptive message
+- **Merge to Main:** The feature branch was successfully merged into main
 
 ---
 
 ## 👨‍💻 Author
 
-**Abdul Azeem**
+Abdul Azeem
 
 - 🐙 GitHub: [@AbdulAzeemHashmi](https://github.com/AbdulAzeemHashmi)
 - ✉️ Email: abdulazeem7982@gmail.com
@@ -124,5 +105,5 @@ This project is built for educational purposes as part of the Codoc IT Internshi
 
 ## 🙏 Acknowledgments
 
-- 🏢 Codoc IT Ltd. for providing the training and assignment guidelines
-- 📚 All resources and documentation that helped in building this project
+- Codoc IT Ltd. for providing the training and assignment guidelines
+- All resources and documentation that helped in building this project
